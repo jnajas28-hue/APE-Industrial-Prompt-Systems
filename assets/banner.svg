@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-label="APE — Automatic Prompt Engineer banner">
+  <rect width="1500" height="500" fill="#FFFFFF"/>
+  <style>
+    .impact { font-family: "Impact", "Helvetica Black", "Arial Black", "Helvetica Neue", Arial, sans-serif; font-weight: 900; fill: #000000; }
+    .main { font-size: 200px; letter-spacing: -3px; }
+    .sub  { font-size: 72px; letter-spacing: -1px; }
+    .meta { font-size: 36px; letter-spacing: 2px; }
+  </style>
+
+  <text class="impact main" x="750" y="170" text-anchor="middle" dominant-baseline="middle">APE — Automatic Prompt Engineer</text>
+
+  <rect x="200" y="200" width="1100" height="12" fill="#D10000" />
+
+  <text class="impact sub" x="750" y="300" text-anchor="middle" dominant-baseline="middle">Industrial Prompt Systems</text>
+
+  <text class="impact meta" x="750" y="450" text-anchor="middle" dominant-baseline="middle">NAJASIA · 2025</text>
+</svg>
